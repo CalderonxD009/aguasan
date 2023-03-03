@@ -1,0 +1,40 @@
+body{
+  background-color: gray;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  text-align: center;
+  margin-left: -100px;
+}
+
+#usuario {
+  margin-top: -20px;
+  height: 20px;
+  width: 500px;
+}
+
+#estrato{
+  height: 20px;
+  width: 240px;
+  margin-top: 10px;
+}
+
+#metros {
+  height: 20px;
+  width: 240px;
+  margin-top: -400px;
+}
+button{
+  margin-top: 20px;
+  width: 500px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+input{
+  border-radius: 10px;
+}
+
+
